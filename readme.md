@@ -40,17 +40,22 @@ Requirements:
   - [x] Wrong password
 
 # Requirements to setup
--Maven 
--Java Preferably 17 and up
+
+- Maven
+- Java Preferably 17 and up
+
 # Setting up the project
+
 ```
 cd .\App\demo\
 mvn install
 ```
+
 # Testing
 
-To start a test 
-``` 
+To start a test
+
+```
 cd .\App\demo\
 run mvn test
 ```
