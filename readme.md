@@ -1,4 +1,3 @@
-@noprettier
 
 # Praktisais uzdevums
 
